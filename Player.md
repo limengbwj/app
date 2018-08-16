@@ -1,3 +1,4 @@
+```
 <template>
     <div>
         <div class="album">
@@ -245,3 +246,4 @@ export default {
     } 
 }
 </style>
+```
